@@ -1,0 +1,9 @@
+ip_servidor=192.168.1.16
+puerto=45559
+timeoutservidor=30
+tiempo_de_juego=45
+tecla_subir=w
+tecla_derecha=d
+tecla_izquierda=a
+tecla_bajar=s
+
